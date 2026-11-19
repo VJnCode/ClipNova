@@ -21,6 +21,8 @@ CLAUDE.local.md
 .vscode/
 .idea/
 *.bat
+!setup.bat
+!Start ClipNova.bat
 Thumbs.db
 .DS_Store
 

@@ -1,5 +1,16 @@
 # ClipNova
 
+## ▶ To start: double-click `Start ClipNova.bat`
+
+That's all. The first time, it installs everything by itself (a few minutes). After that it starts in seconds and
+opens **http://127.0.0.1:8766/app** in your browser. Keep the black window open while you use it; close it to stop.
+
+You only need **Python 3.10+** installed first (https://www.python.org/downloads/, tick "Add Python to PATH").
+ffmpeg is installed for you.
+
+> **Next: read [SETUP.md](SETUP.md)** for the AI key, backup AIs, the Google Cloud project, test users and the
+> redirect URI, connecting YouTube and Instagram, and recording streamers live.
+
 Turn long videos and live streams into captioned vertical clips, ready to post. It runs on your own computer
 with your own AI key, and it's free.
 
