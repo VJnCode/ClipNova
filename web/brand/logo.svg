@@ -1,0 +1,7 @@
+<svg width="797" height="220" viewBox="0 0 797 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="nvbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1B221F"/><stop offset="1" stop-color="#0B1A14"/></linearGradient><linearGradient id="nvst" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6EE7B7"/><stop offset="1" stop-color="#10B981"/></linearGradient></defs>
+<rect width="220" height="220" rx="56" fill="url(#nvbg)"/>
+<path d="M104 40C110 90 128 108 178 114C128 120 110 138 104 188C98 138 80 120 30 114C80 108 98 90 104 40Z" fill="url(#nvst)"/>
+<path d="M166 34C168 50 174 56 190 58C174 60 168 66 166 82C164 66 158 60 142 58C158 56 164 50 166 34Z" fill="#EEF2F0"/>
+<text x="256" y="146" font-family="'Archivo Black','Arial Black','Segoe UI Black',sans-serif" font-size="104" font-weight="900" letter-spacing="-2" fill="#0B1A14">Clip<tspan fill="#059669">Nova</tspan></text>
+</svg>
